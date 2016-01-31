@@ -1,0 +1,28 @@
+name: spacecitydisco
+favicon: null
+layout_spectrum: 0.7060601380653679
+typography_spectrum: 0.9520550693850964
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8534987922757864
+  lightness: 0.9988123518414795
+  saturation: 0.489701712038368
+  rhythmicContrast: 0.5723886997438967
+purpose: []
